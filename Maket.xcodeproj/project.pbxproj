@@ -11,6 +11,8 @@
 		A778F506297C5AC00052F14D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A778F505297C5AC00052F14D /* ContentView.swift */; };
 		A778F508297C5AC00052F14D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A778F507297C5AC00052F14D /* Assets.xcassets */; };
 		A778F50B297C5AC00052F14D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A778F50A297C5AC00052F14D /* Preview Assets.xcassets */; };
+		A7DD5645297DB7FE00874032 /* first.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DD5644297DB7FE00874032 /* first.swift */; };
+		A7DD5647297DB95A00874032 /* UDSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DD5646297DB95A00874032 /* UDSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		A778F505297C5AC00052F14D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A778F507297C5AC00052F14D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A778F50A297C5AC00052F14D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A7DD5644297DB7FE00874032 /* first.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = first.swift; sourceTree = "<group>"; };
+		A7DD5646297DB95A00874032 /* UDSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				A778F503297C5AC00052F14D /* MaketApp.swift */,
 				A778F505297C5AC00052F14D /* ContentView.swift */,
+				A7DD5646297DB95A00874032 /* UDSettings.swift */,
+				A7DD5644297DB7FE00874032 /* first.swift */,
 				A778F507297C5AC00052F14D /* Assets.xcassets */,
 				A778F509297C5AC00052F14D /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A778F506297C5AC00052F14D /* ContentView.swift in Sources */,
+				A7DD5647297DB95A00874032 /* UDSettings.swift in Sources */,
 				A778F504297C5AC00052F14D /* MaketApp.swift in Sources */,
+				A7DD5645297DB7FE00874032 /* first.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
